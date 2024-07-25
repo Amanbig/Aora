@@ -1,6 +1,8 @@
 # My React Native App with Expo and Appwrite
 
-<img src="https://github.com/Amanbig/Aora/blob/master/images.jpg" alt="App Banner" width="400"/>
+##
+
+<img src="https://github.com/Amanbig/Aora/blob/master/images.jpg" alt="App Banner" width="200"/>
 
 ## Table of Contents
 
